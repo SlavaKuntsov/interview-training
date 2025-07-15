@@ -1,59 +1,59 @@
 1. Base:
-	- [[Краткое повторение]]
+	- [Краткое повторение](_Answers/1.%20Base/Краткое%20повторение.md)
 	- [ООП](_Answers/1.%20Base/ООП.md)
-	- [[Виды полиморфизма]]
-	- [[SOLID]]
-	- [[ООП, SOLID и принципы разработки]]
-	- [[Паттерны]]
-	- [[Паттерны микросервисов]]
-	- [[HTTP]]
-	- [[Алгоритмическая сложность]]
-	- [[REST API]]
-	- [[Что авторизация а что аутентификация]]
+	- [Виды полиморфизма](_Answers/1.%20Base/Виды%20полиморфизма.md)
+	- [SOLID](_Answers/1.%20Base/SOLID.md)
+	- [ООП, SOLID и принципы разработки](_Answers/1.%20Base/ООП,%20SOLID%20и%20принципы%20разработки.md)
+	- [Паттерны](_Answers/1.%20Base/Паттерны.md)
+	- [Паттерны микросервисов](_Answers/1.%20Base/Паттерны%20микросервисов.md)
+	- [HTTP](_Answers/1.%20Base/HTTP.md)
+	- [Алгоритмическая сложность](_Answers/1.%20Base/Алгоритмическая%20сложность.md)
+	- [REST API](_Answers/1.%20Base/REST%20API.md)
+	- [Что авторизация а что аутентификация](_Answers/1.%20Base/Что%20авторизация%20а%20что%20аутентификация.md)
 2. С#:
-	- [[Асинхронность, многопоточность, параллельность]]
-	- [[Clean Architecture]]
-	- [[Using]]
-	- [[Куча и Стек (Heap and Stack)]]
-	- [[SOH, LOH, POH]]
-	- [[Boxing & Unboxing]]
-	- [[Generic]]
-	- [[Garbage Collector]]
-	- [[Конвейер обработки запроса asp net]]
-	- [[Фильтры в asp net]]
-	- [[Модификаторы доступа]]
-	- [[Исключения, throw vs throw ex]]
-	- [[API Gateway]]
-	- [[Dependency Injection]]
-	- [[Collections]]
-	- [[Concurrent Collections]]
-	- [[Value и Reference types]]
-	- [[String (StringBuilder)]]
-	- [[Class vs Record vs Struct]]
-	- [[Примитивы синхронизации]]
-	- [[Конечный автомат]]
-	- [[CLR]]
-	- [[IL]]
-	- [[JIT & AOT]]
-	- [[Task vs ValueTask]]
-	- [[new vs ovveride]]
-	- [[stackalloc]]
-	- [[Span & Memory]]
-	- [[MVC]]
-	- [[yield]]
+	- [Асинхронность, многопоточность, параллельность](_Answers/2.%20CSharp/Асинхронность,%20многопоточность,%20параллельность.md)
+	- [Clean Architecture](_Answers/2.%20CSharp/Clean%20Architecture.md)
+	- [Using](_Answers/2.%20CSharp/Using.md)
+	- [Куча и Стек (Heap and Stack)](_Answers/2.%20CSharp/Куча%20и%20Стек%20(Heap%20and%20Stack).md)
+	- [SOH, LOH, POH](_Answers/2.%20CSharp/SOH,%20LOH,%20POH.md)
+	- [Boxing & Unboxing](_Answers/2.%20CSharp/Boxing%20&%20Unboxing.md)
+	- [Generic](_Answers/2.%20CSharp/Generic.md)
+	- [Garbage Collector](_Answers/2.%20CSharp/Garbage%20Collector.md)
+	- [Конвейер обработки запроса asp net](_Answers/2.%20CSharp/Конвейер%20обработки%20запроса%20asp%20net.md)
+	- [Фильтры в asp net](_Answers/2.%20CSharp/Фильтры%20в%20asp%20net.md)
+	- [Модификаторы доступа](_Answers/2.%20CSharp/Модификаторы%20доступа.md)
+	- [Исключения, throw vs throw ex](_Answers/2.%20CSharp/Исключения,%20throw%20vs%20throw%20ex.md)
+	- [API Gateway](_Answers/2.%20CSharp/API%20Gateway.md)
+	- [Dependency Injection](_Answers/2.%20CSharp/Dependency%20Injection.md)
+	- [Collections](_Answers/2.%20CSharp/Collections.md)
+	- [Concurrent Collections](_Answers/2.%20CSharp/Concurrent%20Collections.md)
+	- [Value и Reference types](_Answers/2.%20CSharp/Value%20и%20Reference%20types.md)
+	- [String (StringBuilder)](_Answers/2.%20CSharp/String%20(StringBuilder).md)
+	- [Class vs Record vs Struct](_Answers/2.%20CSharp/Class%20vs%20Record%20vs%20Struct.md)
+	- [Примитивы синхронизации](_Answers/2.%20CSharp/Примитивы%20синхронизации.md)
+	- [Конечный автомат](_Answers/2.%20CSharp/Конечный%20автомат.md)
+	- [CLR](_Answers/2.%20CSharp/CLR.md)
+	- [IL](_Answers/2.%20CSharp/IL.md)
+	- [JIT & AOT](_Answers/2.%20CSharp/JIT%20&%20AOT.md)
+	- [Task vs ValueTask](_Answers/2.%20CSharp/Task%20vs%20ValueTask.md)
+	- [new vs ovveride](_Answers/2.%20CSharp/new%20vs%20ovveride.md)
+	- [stackalloc](_Answers/2.%20CSharp/stackalloc.md)
+	- [Span & Memory](_Answers/2.%20CSharp/Span%20&%20Memory.md)
+	- [MVC](_Answers/2.%20CSharp/MVC.md)
+	- [yield](_Answers/2.%20CSharp/yield.md)
 3. EF Core:
-	- [[Жадная, ленивая, явная загрузка данных в EF Core]]
-	- [[Запросы к еф кору (как просиходит запрос к бд, пометки Modifier и т.д)]]
+	- [Жадная, ленивая, явная загрузка данных в EF Core](_Answers/3.%20EF%20Core/Жадная,%20ленивая,%20явная%20загрузка%20данных%20в%20EF%20Core.md)
+	- [Запросы к еф кору (как просиходит запрос к бд, пометки Modifier и т.д)](_Answers/3.%20EF%20Core/Запросы%20к%20еф%20кору%20(как%20просиходит%20запрос%20к%20бд,%20пометки%20Modifier%20и%20т.д).md)
 4. Database:
-	- [[ACID]]
-	- [[Транзакции]]
-	- [[Эксплейн запрос]]
-	- [[Индексы]]
-	- [[Виды БД и из различия]]
-	- [[Отличия уровней изоляции в разных СУБД]]
-	- [[Репликация и шардирование]]
-	- [[Redis Cache vs Pub-Sub]]
-	- [[OLTP  vs OLAP]]
+	- [ACID](_Answers/4.%20Database/ACID.md)
+	- [Транзакции](_Answers/4.%20Database/Транзакции.md)
+	- [Эксплейн запрос](_Answers/4.%20Database/Эксплейн%20запрос.md)
+	- [Индексы](_Answers/4.%20Database/Индексы.md)
+	- [Виды БД и из различия](_Answers/4.%20Database/Виды%20БД%20и%20из%20различия.md)
+	- [Отличия уровней изоляции в разных СУБД](_Answers/4.%20Database/Отличия%20уровней%20изоляции%20в%20разных%20СУБД.md)
+	- [Репликация и шардирование](_Answers/4.%20Database/Репликация%20и%20шардирование.md)
+	- [Redis Cache vs Pub-Sub](_Answers/4.%20Database/Redis%20Cache%20vs%20Pub-Sub.md)
+	- [OLTP  vs OLAP](_Answers/4.%20Database/OLTP%20%20vs%20OLAP.md)
 5. Brokers
-	- [[Kafka]]
-	- [[RabbitMQ]]
+	- [Kafka](_Answers/5.%20Brokers/Kafka.md)
+	- [RabbitMQ](_Answers/5.%20Brokers/RabbitMQ.md)
