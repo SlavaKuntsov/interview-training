@@ -37,7 +37,10 @@
 	- [[JIT & AOT]]
 	- [[Task vs ValueTask]]
 	- [[new vs ovveride]]
-	- MVC ???
+	- [[stackalloc]]
+	- [[Span & Memory]]
+	- [[MVC]]
+	- [[yield]]
 3. EF Core:
 	- [[Жадная, ленивая, явная загрузка данных в EF Core]]
 	- [[Запросы к еф кору (как просиходит запрос к бд, пометки Modifier и т.д)]]
@@ -50,6 +53,7 @@
 	- [[Отличия уровней изоляции в разных СУБД]]
 	- [[Репликация и шардирование]]
 	- [[Redis Cache vs Pub-Sub]]
+	- [[OLTP  vs OLAP]]
 5. Brokers
 	- [[Kafka]]
 	- [[RabbitMQ]]
